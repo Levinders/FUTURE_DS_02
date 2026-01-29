@@ -96,6 +96,6 @@ Instagram delivered higher engagement volume but lower conversion efficiency. Ov
 - Slides – Executive summary documentation
 
 ## Links
-Live Dashboard & Executive Summary Report: https://lookerstudio.google.com/u/0/reporting/8202b440-214d-4324-a922-3bb13fbaf0b8/page/iUjmF
-Data source: https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign
-Dataset: https://docs.google.com/spreadsheets/d/1BlYP67-iw3v1pIJKK-QpDQVS-yH8fZc90qEZSRHKi-Y/edit?usp=sharing
+- Live Dashboard & Executive Summary Report: https://lookerstudio.google.com/u/0/reporting/8202b440-214d-4324-a922-3bb13fbaf0b8/page/iUjmF
+- Data source: https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign
+- Dataset: https://docs.google.com/spreadsheets/d/1BlYP67-iw3v1pIJKK-QpDQVS-yH8fZc90qEZSRHKi-Y/edit?usp=sharing
