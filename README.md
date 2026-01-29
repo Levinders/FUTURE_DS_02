@@ -1,7 +1,8 @@
 # FUTURE_DS_02
-Social Media Campaign Performance Tracker (Facebook/Instagram) - Future Interns – Data Science & Analytics Internship (Task 2)
+## Social Media Campaign Performance Tracker (Facebook/Instagram) 
 
 ![Social Media Campaign Dashboard](socialMedia.png)
+Future Interns – Data Science & Analytics Internship (Task 2)
 
 ## Overview
 
